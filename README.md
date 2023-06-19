@@ -10,7 +10,7 @@ This is also my first time using GitHub, so don't look behind the curtains xD
 The 22HP Case isn't done yet, but you can start with the 56HP one ;)
 
 If you're having any problems / difficulties, please let me know:
-[Instagram](http://instagram.com/finnglink/) // [Discord](http://discordapp.com/user/Finn#4962)
+[Instagram](http://instagram.com/finnglink/) // [Discord](http://discordapp.com/users/finnglink)
 
 # What You'll Need
 
