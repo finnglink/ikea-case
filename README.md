@@ -18,6 +18,8 @@ If you're having any problems / difficulties, please let me know:
   The big case is ~56HP, the small one ~22HP, both are about 50mm deep.
 - 4x the [main rails](230425_FG_IkeaCase_Rail.stl). **Important:** Print 2x as is and the other 2x mirrored, or they won't fit together!
 - 1x the [drill guide](230502_FG_IkeaCase_DrillGuide.stl). You only need to print this once, it works in multiple orientations.
+- 2x 84HP [threaded strips](https://www.ebay.de/itm/175229118150?hash=item28cc7826c6:g:kHEAAOSwPKpgBDY3). That will be just enough for both cases, you'll need to cut them yourself. 
+  You COULD go with sliding nuts, but you'll loose a bit of stability.
 - 6 M3 nuts (I've used 4 additional ones on the outside for decoration)
 - 6x M3x20 bolts (I'm using hex socket head cap ones, but that's down to your preferred style)
 - 2x M3x10 bolts (or whatever, these are to connect the rails internally, 10mm is about the minimum you need. If you're buying just for this project, use 20mm instead)
