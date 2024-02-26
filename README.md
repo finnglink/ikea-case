@@ -57,3 +57,6 @@ You might need to add more or less washers, depending on your particular case. T
 # The End
 I hope this was a fun project and you got through with ease. If you're having difficulties at any point, please let me know.
 I'd also love to see your creations! Tag me on Instagram or send me a photo to add here.
+Check out my music on [YouTube](https://www.youtube.com/finnglink) or [Instagram](https://www.instagram.com/glnnk_music).
+Cou can [Buy me a coffee](https://www.paypal.com/paypalme/finnglink) if you've found my work helpful :)
+
