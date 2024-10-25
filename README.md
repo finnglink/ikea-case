@@ -6,8 +6,7 @@ This is also my first time using GitHub, so don't look behind the curtains xD
 
 ![main case image](images/IMG_6203.jpg)
 
-**This guide is incomplete!**
-The 22HP Case isn't done yet, but you can start with the 56HP one ;)
+22HP 3D Model by [DJMJR](https://github.com/djmjr)
 
 If you're having any problems / difficulties, please let me know:
 [Instagram](http://instagram.com/finnglink/) // [Discord](http://discordapp.com/users/finnglink)
